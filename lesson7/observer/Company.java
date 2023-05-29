@@ -1,5 +1,4 @@
 package OOP_Java.lesson7.observer;
-
 import java.util.Random;
 
 public class Company implements CreateVacancy{

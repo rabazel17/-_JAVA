@@ -1,4 +1,4 @@
-package OOP_Java.lesson7;
+package ru.geekbrains.lesson7;
 
 public class Program {
 

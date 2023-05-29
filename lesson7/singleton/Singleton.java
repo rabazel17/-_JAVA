@@ -1,5 +1,4 @@
-package OOP_Java.lesson7.singleton;
-
+package ru.geekbrains.lesson7.singleton;
 public class Singleton {
 
     private static Singleton instance;

@@ -1,4 +1,4 @@
-package OOP_Java.lesson7.adapter;
+package ru.geekbrains.lesson7.adapter;
 import java.time.LocalDateTime;
 
 public class MS200 implements MeteoSensor {

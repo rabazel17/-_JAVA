@@ -1,4 +1,5 @@
-package OOP_Java.lesson7.adapter;
+package ru.geekbrains.lesson7.adapter;
+
 public class Program {
 
     public static void main(String[] args) {

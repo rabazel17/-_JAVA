@@ -1,4 +1,4 @@
-package OOP_Java.lesson7.builder;
+package ru.geekbrains.lesson7.builder;
 
 import java.util.Objects;
 
